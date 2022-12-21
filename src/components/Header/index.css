@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+  height: 10vh;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: space-around;
+  border: 2px solid red;
+  width: 200px;
+}
+
+.home-icon {
+  height: 50px;
+  weight: 50px;
+}
+
+.home-heading {
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.search-container {
+  display: flex;
+  border: 2px solid red;
+}
